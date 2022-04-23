@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "805951102313",
+    "project_id": "mahakal-10927",
+    "storage_bucket": "mahakal-10927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805951102313:android:a766d18cece67dbf6531f8",
+        "android_client_info": {
+          "package_name": "com.mahakal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805951102313-lbqsk4clgb00vrq3glbkfkfbgkc9p4iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahakal",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "805951102313-96t3qeqaerevqjl0bnodr6iealqg87so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7_lFkRqE5TfUsnXTlAN7w1qXfGHk2Q8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805951102313-96t3qeqaerevqjl0bnodr6iealqg87so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
